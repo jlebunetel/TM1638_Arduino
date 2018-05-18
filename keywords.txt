@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For TM1638_Arduino
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TM1638	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+clear	KEYWORD2
+setLED	KEYWORD2
+setAddress	KEYWORD2
+
+sendCommand	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+OFF	LITERAL1
+ON	LITERAL1
+
